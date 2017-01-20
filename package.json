@@ -1,0 +1,28 @@
+{
+  "name": "postcss-pxtorpx",
+  "description": "A CSS post-processor that converts px to rpx.",
+  "version": "1.0.0",
+  "author": "dnxbf321",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://dnxbf321@github.com/dnxbf321/postcss-pxtorpx.git"
+  },
+  "bugs": "https://github.com/dnxbf321/postcss-pxtorpx/issues",
+  "main": "index.js",
+  "keywords": [
+    "css",
+    "weapp",
+    "wechat",
+    "weixin",
+    "rpx",
+    "pixel",
+    "px",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "dependencies": {
+    "object-assign": "^4.1.0",
+    "postcss": "^5.2.10"
+  }
+}
